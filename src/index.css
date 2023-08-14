@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'MontSerrat',sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to top, #ffffff 0%, #fff7fe 100%) !important;
+}
+
+code {
+  font-family: 'MontSerrat',sans-serif !important;
+}
