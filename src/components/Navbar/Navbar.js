@@ -2,7 +2,7 @@ import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import { FaFacebook, FaInstagram } from 'react-icons/fa'; // Import Font Awesome icons if needed
 import './Navbar.css'; // Create a CSS file for styling
-import logo from '../../logo.png'
+import logo from '../../newlogo.png'
 
 const CustomNavbar = () => {
   return (
